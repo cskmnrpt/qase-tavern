@@ -9,8 +9,6 @@ This is an example repository with tests in the `tests/examples/` directory. To 
 
 3. Run `pip install -r requirements.txt` from the root of this repository to install dependencies.
 
-4. Install browsers, if you are using the `playwright` library: `playwright install`.
+4. Create a `qase.config.json` in the root of the repository, and add your token, and project code.
 
-5. Create a `qase.config.json` in the root of the repository, and add your token, and project code.
-
-6. Run `pytest`.
+5. Run `pytest`.
